@@ -1,15 +1,16 @@
-.dom{
+.fej{
     margin-bottom: 0;
     background-image: url('../img/fej_hatter.png');    
     background-size: 25px 125px;
     background-position-x: right;
     background-position-y: center;
     background-repeat: repeat-x;
-    padding: 0%;
+    padding: 0%
     
 }
-.dom img{
-    width: 1920px;
+.fej img{
+    width: 100%;
+    height: auto;
 }
 
 .tartalom{
@@ -49,5 +50,11 @@ h3{
     cursor: pointer;
     background-color: #f1f1f1 ;
     
+}
+
+.dom img{
+    height: 100%;
+    width: auto;
+
 }
 
